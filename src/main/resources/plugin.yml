@@ -1,0 +1,8 @@
+name: KazmaKira
+version: '${project.version}'
+main: com.drhalley.kazmakira.KazmaKira
+api-version: '1.16'
+extends:
+  config:
+commands:
+  kirala:

@@ -1,0 +1,8 @@
+name: KazmaKira
+version: '1.0-SNAPSHOT'
+main: com.drhalley.kazmakira.KazmaKira
+api-version: '1.16'
+extends:
+  config:
+commands:
+  kirala:
